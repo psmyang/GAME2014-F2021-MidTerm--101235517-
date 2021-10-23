@@ -1,8 +1,8 @@
 ﻿//*********************************************************************************************************
-// GAME2014-F2020-MidTerm-101235517.C# Unity by Mariam Ogunlesi (C) October 19th 2021 All Rights Reserved.
+// GAME2014-F2021-MidTerm-101235517.C# Unity by Mingkun Yang (C) October 19th 2021 All Rights Reserved.
 //
 // Name: Mingkun Yang 
-//
+//101235517
 // StudentID: 101285729
 //
 // Midterm Test submission.
@@ -11,7 +11,7 @@
 //
 // Modified: October 20th 2021
 //
-//  File Name: BackgroundController.cs
+// File Name: BackgroundController.cs
 //
 //
 // Revision History: Changed player' ship movement to up and down and set up boundary.

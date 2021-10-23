@@ -3,7 +3,7 @@
 //
 // Name: Mingkun Yang 
 //
-// StudentID: 101285729
+// StudentID: 101235517
 //
 // Midterm Test submission.
 //
@@ -11,7 +11,7 @@
 //
 // Modified: October 20th 2021
 //
-//  File Name: BackgroundController.cs
+// File Name: BackgroundController.cs
 //
 //
 // Revision History: Changed background scrolling from right to left.
