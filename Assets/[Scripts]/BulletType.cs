@@ -1,9 +1,9 @@
 ﻿//*********************************************************************************************************
-// GAME2014-F2020-MidTerm-101235517.C# Unity by Mariam Ogunlesi (C) October 19th 2021 All Rights Reserved.
+// GAME2014-F2021-MidTerm-101235517.C# Unity by Mingkun Yang (C) October 19th 2021 All Rights Reserved.
 //
 // Name: Mingkun Yang 
 //
-// StudentID: 101285729
+// StudentID: 101235517
 //
 // Midterm Test submission.
 //
